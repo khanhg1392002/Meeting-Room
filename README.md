@@ -1,18 +1,37 @@
-Meeting Room Booking System
-This project is a Meeting Room Booking System that allows users to manage branches, rooms, users, and bookings for meeting rooms. The backend is built with ASP.NET Core using MySQL as the database, and the frontend will be developed using ReactJS.
+# 🏢 Meeting Room Booking System
 
-Tech Stack
-Backend:
-ASP.NET Core 6.0
-MySQL (Database)
-Dependency Injection
-Repository Pattern
-Frontend:
-ReactJS (to be implemented)
-Axios (for API calls)
-React Router (for navigation)
-Tools:
-Visual Studio 2022 (for backend development)
-Postman (for API testing)
-Node.js (for frontend setup)
-Git (version control)
+Welcome to the **Meeting Room Booking System**, a platform that enables users to efficiently manage branches, meeting rooms, users, and bookings. This system ensures seamless scheduling and organization of meetings.
+
+## 🚀 Tech Stack
+
+### Backend
+- **ASP.NET Core 8.0** – Robust and scalable backend framework
+- **MySQL** – Relational database for storing meeting and user data
+- **Dependency Injection** – Ensures modularity and testability
+- **Repository Pattern** – Provides abstraction over data access logic
+
+### Frontend *(To be implemented)*
+- **ReactJS** – Modern JavaScript library for building dynamic UI
+- **Axios** – For making HTTP requests to the backend
+- **React Router** – Enables smooth navigation between pages
+
+### 🛠 Tools
+- **Visual Studio 2022** – IDE for backend development
+- **Postman** – API testing and debugging
+- **Node.js** – Required for setting up the React frontend
+- **Git** – Version control for tracking changes
+
+## 📌 Features
+✅ Branch management (Add, Edit, Delete branches)  
+✅ Meeting room management (CRUD operations)  
+✅ User management with authentication  
+✅ Room booking system with time slot selection  
+✅ Admin panel for managing all resources  
+
+## 📖 Getting Started
+
+### Prerequisites
+Ensure you have the following installed:
+- [.NET SDK 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [MySQL Server](https://dev.mysql.com/downloads/)
+- [Node.js](https://nodejs.org/)
