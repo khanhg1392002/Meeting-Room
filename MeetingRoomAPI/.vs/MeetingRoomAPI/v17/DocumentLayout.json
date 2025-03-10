@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c\\meeting room\\meetingroomapi\\meetingroomapi\\services\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059C3E8-A970-4771-BC95-5FF9F7427AC2}|MeetingRoomAPI\\MeetingRoomAPI.csproj|solutionrelative:meetingroomapi\\services\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 409,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwFIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:30:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\Booking.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Models\\Booking.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:20:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAQwBIBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:05:32.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:27:43.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\User.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:20:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\BranchRepository.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Repositories\\BranchRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\BranchRepository.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Repositories\\BranchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:06:21.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\BranchService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\BranchService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\BranchService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\BranchService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:20:33.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\BookingService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\BookingService.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:27:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:38:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Program.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:32:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\Branch.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:15:54.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Models\\Room.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:20:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:27:39.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA5wH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:48:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:22:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IUserService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:22:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\RoomService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\RoomService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:21:19.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BranchesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\BranchesController.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Controllers\\BranchesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Controllers\\BranchesController.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Controllers\\BranchesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:15:51.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IRoomService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IRoomService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:21:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IBookingService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IBookingService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:27:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBranchService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IBranchService.cs",
+              "RelativeDocumentMoniker": "MeetingRoomAPI\\Services\\IBranchService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C\\Meeting Room\\MeetingRoomAPI\\MeetingRoomAPI\\Services\\IBranchService.cs",
+              "RelativeToolTip": "MeetingRoomAPI\\Services\\IBranchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:20:20.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
